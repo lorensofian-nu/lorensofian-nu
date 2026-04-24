@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi power ranger 👋
 
 <!--
 **lorensofian-nu/lorensofian-nu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
