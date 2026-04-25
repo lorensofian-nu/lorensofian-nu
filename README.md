@@ -27,7 +27,8 @@ Here are some ideas to get you started:
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms4Nm1wajNraW5wZGFxb3hoYzhrdW52aHEyb2Y3djB2bm9xOWZ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Tf3BH96icg4BwOxWBL/giphy.gif"width="300"/>
 </p>
 
-<h2 align="center">🌟About me🌟</h2> 
+<h2 align="center">🌟About me🌟</h2> <p align="right">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBxOTZ6eG05YnFtaml0eTV3anI5YzlzZzRteGw5b3JoZjBsejM3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jptAHfCnH8rSgVSjcE/giphy.gif"width="300"/>
 
 ###
 
