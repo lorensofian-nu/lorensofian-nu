@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="center">I'm Sofiiiiii, a developer in progress from Colombia.</p>
+<p align="center">🛸I'm Sofiiiiii, a developer in progress from Colombia🛸.</p>
 
 ###
 
-<h2 align="center">About me</h2> 🛸
+<h2 align="center">🌟About me🌟</h2> 
 
 ###
 
