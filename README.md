@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h2 align="center">🌟About me🌟</h2> 
   <img width="171px" align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBxOTZ6eG05YnFtaml0eTV3anI5YzlzZzRteGw5b3JoZjBsejM3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jptAHfCnH8rSgVSjcE/giphy.gif"/>
 
-<p align="center">✨ Passionate about learning and coding  <br>📚Improving my programming skills  <br>🎯 Goals: Become a crack developer <br>🎲 Fun fact: I love learning something new every day</p>
+<p align="left">✨ Passionate about learning and coding  <br>📚Improving my programming skills  <br>🎯 Goals: Become a crack developer <br>🎲 Fun fact: I love learning something new every day</p>
 </div>
 
 <div align="center">
