@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 
 ###
-
+<div align="center">
 <p align="left">I'm Sofiiiiii, a developer in progress from Colombia.</p>
 
 ###
-
+<div align="center">
 <h2 align="left">About me</h2>
 
 ###
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <p align="left">✨ Passionate about learning and coding  <br>📚Improving my programming skills  <br>🎯 Goals: Become a crack developer <br>🎲 Fun fact: I love learning something new every day</p>
 
 ###
-
+<div align="center">
 <h2 align="left">I code with</h2>
 
 ###
