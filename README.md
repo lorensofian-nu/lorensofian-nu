@@ -69,9 +69,9 @@ Here are some ideas to get you started:
 
 </picture>
 <div align="center">
- <img width="171px" align="right" src="https://streak-stats.demolab.com?user=lorensofian-nu&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"/>
-
-
+ <img src="https://streak-stats.demolab.com?user=lorensofian-nu&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"/>
+</picture>
+  <img width="171px" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHp5ZXYydHVsaDd3MHI5ZTJ0c2QzOHFtenF4ODlkYXFvbnlyMzV0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gitdNOfXczQxBZjqd4/giphy.gif"/>
 
 </div>
 <picture>
