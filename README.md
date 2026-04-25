@@ -69,7 +69,10 @@ Here are some ideas to get you started:
 
 </picture>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lorensofian-nu&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+ <img width="171px" align="right" src="https://streak-stats.demolab.com?user=lorensofian-nu&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"/>
+
+
+
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lorensofian-nu/lorensofian-nu/output/pacman-contribution-graph-dark.svg">
