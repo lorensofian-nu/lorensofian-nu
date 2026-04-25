@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 </div>
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lorensofian-nu/lorensofian-nu/output/pacman-contribution-graph-dark.svg">
@@ -73,4 +74,3 @@ Here are some ideas to get you started:
 </picture>
 
 ###
-
